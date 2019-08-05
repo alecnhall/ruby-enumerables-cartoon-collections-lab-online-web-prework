@@ -17,7 +17,7 @@ end
 def find_the_cheese(arr)
   cheeses = ["cheddar", "gouda", "camembert"]
   arr.map do |i| 
-    if i.include?("cheddar")
+    if i.include?("cheddar", "gouda", "camembert")
       p i
     else 
       p nil
