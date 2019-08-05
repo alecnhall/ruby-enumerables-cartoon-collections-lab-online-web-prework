@@ -22,7 +22,7 @@ def find_the_cheese(arr)
     else 
       p nil
     end
-    end
+  end
 end
 
 find_the_cheese(["cheddar"])
