@@ -21,7 +21,7 @@ def find_the_cheese(arr)
       p i
     end
   end
-  return nil
+  p nil
 end
 
 find_the_cheese(["bread", "beans"])
