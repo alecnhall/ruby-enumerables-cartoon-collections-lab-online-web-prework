@@ -16,7 +16,7 @@ end
 
 def find_the_cheese(arr)
   cheeses = ["cheddar", "gouda", "camberet"]
-  p arr.include?(cheeses)
+  p arr.include?("cheddar")
 end
 
 find_the_cheese(["cheddar"])
