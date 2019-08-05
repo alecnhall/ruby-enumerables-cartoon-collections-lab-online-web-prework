@@ -25,4 +25,4 @@ def find_the_cheese(arr)
   end
 end
 
-find_the_cheese(["bread", "beans"])
+find_the_cheese(["bread", "beans", "cheddar"])
