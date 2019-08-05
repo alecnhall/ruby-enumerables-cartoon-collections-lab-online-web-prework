@@ -19,4 +19,4 @@ def find_the_cheese(arr)
   arr.include?(cheeses)
 end
 
-# find_the_cheese(["cheddar"])
+find_the_cheese(["cheddar"])
