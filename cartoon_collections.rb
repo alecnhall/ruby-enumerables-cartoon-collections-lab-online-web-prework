@@ -20,7 +20,7 @@ def find_the_cheese(arr)
     if i.include?(cheeses)
       return i
     else 
-      p nil
+      return nil
     end
   end
 end
