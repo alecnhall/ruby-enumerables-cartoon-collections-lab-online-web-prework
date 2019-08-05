@@ -19,6 +19,10 @@ def find_the_cheese(arr)
   arr.map do |i| 
     if i.include?()
       p i
+    else 
+      p nil
+    end
+    end
 end
 
 find_the_cheese(["cheddar"])
